@@ -164,15 +164,6 @@
 
   });
 
-  // Portfolio details carousel
-  $(".portfolio-details-carousel").owlCarousel({
-    autoplay: true,
-    autoplayTimeout: 5000,
-	  autoplayHoverPause: false,
-    dots: true,
-    loop: true,
-    items: 1
-  });
 
   //Jquery Flip
   $('.panel-collapse').on('show.bs.collapse', function () {
